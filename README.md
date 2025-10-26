@@ -29,8 +29,9 @@ Gra oferuje interaktywny interfejs graficzny, liczniki wygranych oraz dynamiczne
 - **Dynamiczny obrazek ptaka**  
   - Powyżej wygranych wyświetlany jest obrazek ptaka, który zmienia się po wygranej lub remisie, informując wizualnie o wyniku.  
 
-<img width="141" height="181" alt="image" src="https://github.com/user-attachments/assets/5713ac9b-af20-4fca-b77b-93a6ebe53b55" />
-<img width="141" height="181" alt="image" src="https://github.com/user-attachments/assets/da59f1b6-a982-43d0-936a-6af57fab6044" />
+<img width="80" height="160" alt="wiktoriusz_maly" src="https://github.com/user-attachments/assets/09c37264-8f11-45fe-8ac8-872ca6cf7831" />
+<img width="90" height="110" alt="buuu_maly" src="https://github.com/user-attachments/assets/beece702-8f9d-4670-8b04-17dd0b780fd4" />
+
 
 - **Przyciski sterujące**  
   - **Nowa gra** – resetuje planszę i rozpoczyna nową rozgrywkę.  
