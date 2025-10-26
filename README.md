@@ -44,12 +44,11 @@ Gra oferuje interaktywny interfejs graficzny, liczniki wygranych oraz dynamiczne
   - Przy rozpoczęciu nowej gry losowany jest gracz rozpoczynający rozgrywkę.
 
 ---
-
+  
 ## 🛠 Instalacja i uruchomienie
-
-1. **Sklonuj repozytorium:**
+1. Sklonuj repozytorium:
    ```bash
-  git clone https://github.com/wojtekzl/kolko_i_krzyzyk.git
+   git clone https://github.com/wojtekzl/kolko_i_krzyzyk.git
 
 ---
 
