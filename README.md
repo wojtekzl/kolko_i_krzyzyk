@@ -48,9 +48,8 @@ Gra oferuje interaktywny interfejs graficzny, liczniki wygranych oraz dynamiczne
 ## 🛠 Instalacja i uruchomienie
 
 1. **Sklonuj repozytorium:**
-
-```bash
-git clone https://github.com/wojtekzl/kolko_i_krzyzyk.git
+   ```bash
+  git clone https://github.com/wojtekzl/kolko_i_krzyzyk.git
 
 ---
 
@@ -62,4 +61,3 @@ Autorem projektu jest Wojciech Złonkiewicz.
 Projekt wykonano w maju 2025 roku
 
 ---
-
